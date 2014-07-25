@@ -1,0 +1,6 @@
+﻿namespace CarPark
+{
+    class Car
+    {
+    }
+}
